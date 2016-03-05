@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Photo Booth</title>
+
+		<link rel="stylesheet" type="text/css" href="css/photo-booth.css">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+
+		<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+		<script type="text/javascript" src="js/photo-booth.js"></script>
+
+		<script type="text/javascript">
+			window.addEventListener("DOMContentLoaded", function() {
+				setupUserMedia();
+			}, false);
+		</script>
+	</head>
+	<body>
+		<div id="container">
+			<div id="screen">
+				<video id="live" autoplay></video>
+				<canvas id="snapshot"></canvas>
+			</div>
+			<div id="bar">
+				<div id="controls">
+					<a id="snapControl" href="#" onclick="snap(); return false;" class="glyphicon glyphicon-camera"></a>
+					<a id="uploadControl" href="#" onclick="upload(); return false;" class="glyphicon glyphicon-upload"></a>
+					<a id="repeatControl" href="#" onclick="repeat(); return false;" class="glyphicon glyphicon-repeat"></a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
