@@ -1,0 +1,201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/next/sponsors/index.md",
+		"/J/Kristof/__RECOVERY/MYPASSPORT/Personal/Batjes Zedelgem/Website/css/sponsor-wall.css",
+		"/J/Kristof/__RECOVERY/MYPASSPORT/Personal/Batjes Zedelgem/Website/sponsor-wall.html",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/_includes/header.html",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/_layouts/default.html",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/_includes/navigation.html",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/_site/index.html",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/_includes/footer.html",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/batjescomite/index.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/batjescomite/kristof.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/sponsors/index.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/_posts/batjes2016/2016-03-19-start.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/edities/2016/index.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/edities/2015/index.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/edities/index.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/index.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/_data/navigation.yml",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/edities/2015/2015.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/historiek/index.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/nieuws/index.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/batjes2016/index.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/batjes2016/archief.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/batjes2015/index.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/_config.yml",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/_data/messages.yml",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/_posts/batjes2016/2016-03-19-helloworld.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/_sass/_tiles.scss",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/README.md",
+		"/C/Users/Kristof/Work/Code/batjeszedelgem.github.io/skinny-bones-jekyll-master.zip"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Kristof\\Work\\Code\\batjeszedelgem.github.io"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"masthead\"",
+			"<html",
+			"teaser"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "batjeszedelgem-website.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 426.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
