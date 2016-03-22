@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000//edities/2015/</loc>
+<loc>http://www.batjeszedelgem.be/edities/2015/</loc>
 </url>
 <url>
-<loc>http://localhost:4000//batjescomite/</loc>
+<loc>http://www.batjeszedelgem.be/batjescomite/</loc>
 </url>
 <url>
-<loc>http://localhost:4000//</loc>
+<loc>http://www.batjeszedelgem.be/</loc>
 </url>
 <url>
-<loc>http://localhost:4000//edities/2016/</loc>
+<loc>http://www.batjeszedelgem.be/edities/2016/</loc>
 </url>
 <url>
-<loc>http://localhost:4000//sponsors/</loc>
+<loc>http://www.batjeszedelgem.be/sponsors/</loc>
 </url>
 <url>
-<loc>http://localhost:4000//edities/</loc>
+<loc>http://www.batjeszedelgem.be/edities/</loc>
 </url>
 <url>
-<loc>http://localhost:4000//batjescomite/kristof/</loc>
+<loc>http://www.batjeszedelgem.be/batjescomite/kristof/</loc>
 </url>
 </urlset>
