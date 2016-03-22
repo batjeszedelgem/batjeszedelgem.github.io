@@ -3,15 +3,15 @@
 
   <title>Batjes Zedelgem</title>
   <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.1.1</generator>
-    <icon>http://www.batjeszedelgem.be/apple-touch-icon-precomposed.png</icon>
+    <icon>http://www.batjeszedelgem.be/next/apple-touch-icon-precomposed.png</icon>
   <subtitle>Website van de Zedelgemse Batjes</subtitle>
-  <link href="http://www.batjeszedelgem.be/atom.xml" rel="self"/>
-  <link href="http://www.batjeszedelgem.be/" rel="alternate" type="text/html"/>
-  <updated>2016-03-22T21:49:23+01:00</updated>
-  <id>http://www.batjeszedelgem.be/</id>
+  <link href="http://www.batjeszedelgem.be/next/atom.xml" rel="self"/>
+  <link href="http://www.batjeszedelgem.be/next/" rel="alternate" type="text/html"/>
+  <updated>2016-03-22T21:51:42+01:00</updated>
+  <id>http://www.batjeszedelgem.be/next/</id>
   <author>
     <name></name>
-    <uri>http://www.batjeszedelgem.be/</uri>
+    <uri>http://www.batjeszedelgem.be/next/</uri>
     
   </author>
 
