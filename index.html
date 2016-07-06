@@ -7,30 +7,16 @@
 
 		<style type="text/css">
 			body {
-				background: #3c3032 url("images/top.png") repeat-x;
-
-				-webkit-transition: background-color 500ms linear;
-				-moz-transition: background-color 500ms linear;
-				-o-transition: background-color 500ms linear;
-				-ms-transition: background-color 500ms linear;
-				transition: background-color 500ms linear;
-			}
-
-			body.light {
-				background-color: #d9cfcf;
-			}
-
-			body.dark {
-				background-color: #3c3032;
+				background: url("images/bg.png") repeat;
 			}
 
 			div#container {
 				display: block;
 				position: absolute;
-				top: 100px;
+				top: 150px;
 				left: 50%;
-				width: 800px;
-				margin-left: -400px;
+				width: 1600px;
+				margin-left: -800px;
 			}
 		</style>
 
@@ -115,27 +101,6 @@
 	            $(window).bind("resize", ScaleSlider);
 	            $(window).bind("orientationchange", ScaleSlider);
 	            //responsive code end
-
-		        function StateChangeEventHandler(slideIndex, progress, progressBegin, idleBegin, idleEnd, progressEnd) {
-		        	if (progress == progressBegin) {
-			        	var body = $("body");
-
-			        	if (slideIndex > 3) {
-			        		if (body.hasClass("light")) {
-			        			body.removeClass("light");
-			        		}
-			        		body.addClass("dark");
-			        	
-			        	} else {
-			        		if (body.hasClass("dark")) {
-			        			body.removeClass("dark");
-			        		}
-			        		body.addClass("light");
-			        	}
-		        	}
-		        }
-
-	            jssor_slider1.$On($JssorSlider$.$EVT_STATE_CHANGE, StateChangeEventHandler);
 	        });
 		</script>
 	</head>
@@ -144,7 +109,7 @@
 		<div id="container">
 		    <!-- Jssor Slider Begin -->
 		    <!-- To move inline styles to css file/block, please specify a class name for each element. --> 
-		    <div id="slider1_container" style="position: relative; width: 800px; height: 1200px; overflow: hidden; margin: 0 auto;">
+		    <div id="slider1_container" style="position: relative; width: 1600px; height: 2400px; overflow: hidden; margin: 0 auto;">
 
 		        <!-- Loading Screen -->
 		        <div u="loading" style="position: absolute; top: 0px; left: 0px;">
@@ -157,24 +122,36 @@
 		        </div>
 
 		        <!-- Slides Container -->
-		        <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 800px; height: 1200px; overflow: hidden;">
+		        <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1600px; height: 2400px; overflow: hidden;">
 		            <div>
-		                <img u="image" src="images/folder/front.png" />
+		                <img u="image" src="images/folder/pag1.png" />
 		            </div>
 		            <div>
-		                <img u="image" src="images/folder/programma-vr.png" />
+		                <img u="image" src="images/folder/pag2.png" />
 		            </div>
 		            <div>
-		                <img u="image" src="images/folder/programma-za.png" />
+		                <img u="image" src="images/folder/pag3.png" />
 		            </div>
 		            <div>
-		                <img u="image" src="images/folder/programma-zo.png" />
+		                <img u="image" src="images/folder/pag4.png" />
 		            </div>
 		            <div>
-		                <img u="image" src="images/folder/sponsors1.png" />
+		                <img u="image" src="images/folder/pag5.png" />
 		            </div>
 		            <div>
-		                <img u="image" src="images/folder/sponsors2.png" />
+		                <img u="image" src="images/folder/pag6.png" />
+		            </div>
+		            <div>
+		                <img u="image" src="images/folder/pag7.png" />
+		            </div>
+		            <div>
+		                <img u="image" src="images/folder/pag8.png" />
+		            </div>
+		            <div>
+		                <img u="image" src="images/folder/pag9.png" />
+		            </div>
+		            <div>
+		                <img u="image" src="images/folder/pag10.png" />
 		            </div>
 		        </div>
 		</div>
