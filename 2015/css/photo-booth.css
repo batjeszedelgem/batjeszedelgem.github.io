@@ -1,0 +1,53 @@
+body {
+    background: url("../images/top.png") repeat-x;
+    margin: 0;
+    padding: 0;
+}
+
+div#container {
+    display: block;
+    position: fixed;
+    top: 70px;
+    left: 50%;
+}
+
+div#bar {
+    clear: both;
+    display: block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+
+div#controls {
+    left: 50%;
+}
+
+div#controls a.glyphicon {
+    font-size: 3.5em;
+    color: black;
+    padding: 0px 10px 0px 10px;
+}
+
+div#screen video, div#screen canvas {
+    position: absolute;
+    display: block;
+    left: 50%;
+    margin-left: -320px;
+    top: 50px;
+/*
+    width: 640px;
+    height: 480px;
+*/
+}
+
+div#screen canvas {
+    display: none;
+}
+
+a#uploadControl, a#repeatControl {
+    display: none;
+}
