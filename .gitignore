@@ -1,1 +1,5 @@
-next_source/
+Gemfile.lock
+.DS_Store
+_site
+.sass-cache
+.jekyll-metadata
