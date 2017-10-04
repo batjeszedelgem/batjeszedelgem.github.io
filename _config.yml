@@ -1,8 +1,0 @@
-# Site settings
-title: Batjes Zedelgem
-description: "Jaarlijks evenement in Zedelgem begin augustus"
-url: http://www.batjeszedelgem.be
-
-# Build settings
-markdown: kramdown
-theme: minima
